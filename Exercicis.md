@@ -3,3 +3,7 @@
 - num=2
 - num = 12
 !(./imatges/Recur1.png)
+
+# Exercici 4
+CMP -> 00 MOV-> 01 ADD -> 10  BEQ -> 11
+a) 2 16
