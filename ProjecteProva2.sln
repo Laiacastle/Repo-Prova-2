@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchClass", "SearchClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstSort", "FirstSort\FirstSort.csproj", "{9F70D44B-303A-466B-BA5D-802F7D078273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefraccioExTres", "RefraccioExTres\RefraccioExTres.csproj", "{DBDDCDAB-B10E-4B36-8586-0AE47D8D4682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{9F70D44B-303A-466B-BA5D-802F7D078273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F70D44B-303A-466B-BA5D-802F7D078273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F70D44B-303A-466B-BA5D-802F7D078273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDDCDAB-B10E-4B36-8586-0AE47D8D4682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDDCDAB-B10E-4B36-8586-0AE47D8D4682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDDCDAB-B10E-4B36-8586-0AE47D8D4682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDDCDAB-B10E-4B36-8586-0AE47D8D4682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
