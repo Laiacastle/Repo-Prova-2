@@ -57,6 +57,7 @@ namespace Refraccio
             {
                 Console.WriteLine(MsgError);
             }
-            }
+        }
+    }
 }
 //POST: retorna si els números (dd, mm, yyyy) estan dins del rang de dtaa corresponent
