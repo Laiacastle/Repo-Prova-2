@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FirstSort\FirstSort.csproj" />
-    <ProjectReference Include="..\SearchClass\SearchClass.csproj" />
+    <ProjectReference Include="..\ExerciciSisLibrary\ExerciciSisLibrary.csproj" />
   </ItemGroup>
 
 </Project>
